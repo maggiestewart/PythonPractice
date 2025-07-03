@@ -1,0 +1,4 @@
+Best practices for API chaining:
+- Have robust error management
+- Implement secure mechanisms throughout the chaining
+- Plan for version control
